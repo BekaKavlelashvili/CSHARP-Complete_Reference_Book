@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_Overloading", "Metho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overloading_Constuctors", "Overloading_Constuctors\Overloading_Constuctors.csproj", "{07EE65E4-6675-4946-908D-0D0D28F061A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoke_Cons_Through_This", "Invoke_Cons_Through_This\Invoke_Cons_Through_This.csproj", "{952BF527-6A9A-4454-B004-949526D37535}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{07EE65E4-6675-4946-908D-0D0D28F061A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07EE65E4-6675-4946-908D-0D0D28F061A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07EE65E4-6675-4946-908D-0D0D28F061A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952BF527-6A9A-4454-B004-949526D37535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952BF527-6A9A-4454-B004-949526D37535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952BF527-6A9A-4454-B004-949526D37535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952BF527-6A9A-4454-B004-949526D37535}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
