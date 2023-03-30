@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optional_Arguments", "Optio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arguments_In_Main", "Arguments_In_Main\Arguments_In_Main.csproj", "{EC363D8B-FAF7-4593-AE66-CA60C0F68A6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{07ADCCAA-B49B-4987-88DA-C59B2CF97E9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{EC363D8B-FAF7-4593-AE66-CA60C0F68A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC363D8B-FAF7-4593-AE66-CA60C0F68A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC363D8B-FAF7-4593-AE66-CA60C0F68A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07ADCCAA-B49B-4987-88DA-C59B2CF97E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07ADCCAA-B49B-4987-88DA-C59B2CF97E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07ADCCAA-B49B-4987-88DA-C59B2CF97E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07ADCCAA-B49B-4987-88DA-C59B2CF97E9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
