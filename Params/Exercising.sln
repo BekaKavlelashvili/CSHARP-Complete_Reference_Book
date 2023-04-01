@@ -9,17 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return_Objects", "Return_Ob
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return_Array", "Return_Array\Return_Array.csproj", "{941880C5-118E-40F5-B069-76BCC52413E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_Overloading", "Method_Overloading\Method_Overloading.csproj", "{6E2AB495-A9FC-40CE-903E-48BD28D49F21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method_Overloading", "Method_Overloading\Method_Overloading.csproj", "{6E2AB495-A9FC-40CE-903E-48BD28D49F21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overloading_Constuctors", "Overloading_Constuctors\Overloading_Constuctors.csproj", "{07EE65E4-6675-4946-908D-0D0D28F061A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overloading_Constuctors", "Overloading_Constuctors\Overloading_Constuctors.csproj", "{07EE65E4-6675-4946-908D-0D0D28F061A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoke_Cons_Through_This", "Invoke_Cons_Through_This\Invoke_Cons_Through_This.csproj", "{952BF527-6A9A-4454-B004-949526D37535}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Invoke_Cons_Through_This", "Invoke_Cons_Through_This\Invoke_Cons_Through_This.csproj", "{952BF527-6A9A-4454-B004-949526D37535}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optional_Arguments", "Optional_Arguments\Optional_Arguments.csproj", "{7E8EB38A-7D61-471B-B66C-C755BBAA91EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Optional_Arguments", "Optional_Arguments\Optional_Arguments.csproj", "{7E8EB38A-7D61-471B-B66C-C755BBAA91EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arguments_In_Main", "Arguments_In_Main\Arguments_In_Main.csproj", "{EC363D8B-FAF7-4593-AE66-CA60C0F68A6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arguments_In_Main", "Arguments_In_Main\Arguments_In_Main.csproj", "{EC363D8B-FAF7-4593-AE66-CA60C0F68A6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{07ADCCAA-B49B-4987-88DA-C59B2CF97E9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recursion.csproj", "{07ADCCAA-B49B-4987-88DA-C59B2CF97E9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator_Overloading", "Operator_Overloading\Operator_Overloading.csproj", "{C9E3F9C8-6909-4722-8900-9211C59FA040}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{07ADCCAA-B49B-4987-88DA-C59B2CF97E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07ADCCAA-B49B-4987-88DA-C59B2CF97E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07ADCCAA-B49B-4987-88DA-C59B2CF97E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E3F9C8-6909-4722-8900-9211C59FA040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E3F9C8-6909-4722-8900-9211C59FA040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E3F9C8-6909-4722-8900-9211C59FA040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E3F9C8-6909-4722-8900-9211C59FA040}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
