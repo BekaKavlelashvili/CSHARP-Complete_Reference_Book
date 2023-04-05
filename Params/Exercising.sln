@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read-only_Indexer", "Read-o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multidimensional_Indexer", "Multidimensional_Indexer\Multidimensional_Indexer.csproj", "{E8D6EC2E-F779-4E3F-B79D-5C946725E3EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Properties.csproj", "{3FAF1391-C40A-4D3E-9C6B-F1625F5B426E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{E8D6EC2E-F779-4E3F-B79D-5C946725E3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8D6EC2E-F779-4E3F-B79D-5C946725E3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8D6EC2E-F779-4E3F-B79D-5C946725E3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FAF1391-C40A-4D3E-9C6B-F1625F5B426E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FAF1391-C40A-4D3E-9C6B-F1625F5B426E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FAF1391-C40A-4D3E-9C6B-F1625F5B426E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FAF1391-C40A-4D3E-9C6B-F1625F5B426E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
