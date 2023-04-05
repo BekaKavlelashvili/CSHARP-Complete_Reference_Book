@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operator_Overloading", "Operator_Overloading\Operator_Overloading.csproj", "{C9E3F9C8-6909-4722-8900-9211C59FA040}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer", "Indexer\Indexer.csproj", "{08FA26BC-31E3-4F32-8DE2-B08DF81EA2A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexer", "Indexer\Indexer.csproj", "{08FA26BC-31E3-4F32-8DE2-B08DF81EA2A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer Overloading", "Indexer Overloading\Indexer Overloading.csproj", "{5C9233BA-77CB-4C35-B6A3-F40D2DFE7208}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexer Overloading", "Indexer Overloading\Indexer Overloading.csproj", "{5C9233BA-77CB-4C35-B6A3-F40D2DFE7208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read-only_Indexer", "Read-only_Indexer\Read-only_Indexer.csproj", "{687518FE-14C0-4CA1-ADC2-B055824A8628}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{5C9233BA-77CB-4C35-B6A3-F40D2DFE7208}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C9233BA-77CB-4C35-B6A3-F40D2DFE7208}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C9233BA-77CB-4C35-B6A3-F40D2DFE7208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{687518FE-14C0-4CA1-ADC2-B055824A8628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687518FE-14C0-4CA1-ADC2-B055824A8628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687518FE-14C0-4CA1-ADC2-B055824A8628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687518FE-14C0-4CA1-ADC2-B055824A8628}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
