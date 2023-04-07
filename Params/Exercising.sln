@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Properties", "Properties\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorAndInheritance", "ConstructorAndInheritance\ConstructorAndInheritance.csproj", "{E7DB2EE5-6CCC-47DF-B460-B838D2D20AE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorAndInheritance_Base_Keyword", "ConstructorAndInheritance_Base_Keyword\ConstructorAndInheritance_Base_Keyword.csproj", "{C0800C05-1618-4B47-9D05-8D98E6B6D3BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{E7DB2EE5-6CCC-47DF-B460-B838D2D20AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7DB2EE5-6CCC-47DF-B460-B838D2D20AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7DB2EE5-6CCC-47DF-B460-B838D2D20AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0800C05-1618-4B47-9D05-8D98E6B6D3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0800C05-1618-4B47-9D05-8D98E6B6D3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0800C05-1618-4B47-9D05-8D98E6B6D3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0800C05-1618-4B47-9D05-8D98E6B6D3BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
