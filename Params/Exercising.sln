@@ -33,9 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multidimensional_Indexer", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Properties", "Properties\Properties.csproj", "{3FAF1391-C40A-4D3E-9C6B-F1625F5B426E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorAndInheritance", "ConstructorAndInheritance\ConstructorAndInheritance.csproj", "{E7DB2EE5-6CCC-47DF-B460-B838D2D20AE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorAndInheritance", "ConstructorAndInheritance\ConstructorAndInheritance.csproj", "{E7DB2EE5-6CCC-47DF-B460-B838D2D20AE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorAndInheritance_Base_Keyword", "ConstructorAndInheritance_Base_Keyword\ConstructorAndInheritance_Base_Keyword.csproj", "{C0800C05-1618-4B47-9D05-8D98E6B6D3BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorAndInheritance_Base_Keyword", "ConstructorAndInheritance_Base_Keyword\ConstructorAndInheritance_Base_Keyword.csproj", "{C0800C05-1618-4B47-9D05-8D98E6B6D3BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{991F33AC-0FFB-44F1-A05B-25DDAE0E82D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{C0800C05-1618-4B47-9D05-8D98E6B6D3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0800C05-1618-4B47-9D05-8D98E6B6D3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0800C05-1618-4B47-9D05-8D98E6B6D3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991F33AC-0FFB-44F1-A05B-25DDAE0E82D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991F33AC-0FFB-44F1-A05B-25DDAE0E82D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991F33AC-0FFB-44F1-A05B-25DDAE0E82D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991F33AC-0FFB-44F1-A05B-25DDAE0E82D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
