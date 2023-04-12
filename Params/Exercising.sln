@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Indexer", "Interf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structure", "Structure\Structure.csproj", "{542CE1E9-64D2-4ECB-B311-0859011BB1C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeration", "Enumeration\Enumeration.csproj", "{1C656AF2-3337-4C3C-9D2B-AF40DB484038}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{542CE1E9-64D2-4ECB-B311-0859011BB1C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{542CE1E9-64D2-4ECB-B311-0859011BB1C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{542CE1E9-64D2-4ECB-B311-0859011BB1C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C656AF2-3337-4C3C-9D2B-AF40DB484038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C656AF2-3337-4C3C-9D2B-AF40DB484038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C656AF2-3337-4C3C-9D2B-AF40DB484038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C656AF2-3337-4C3C-9D2B-AF40DB484038}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
