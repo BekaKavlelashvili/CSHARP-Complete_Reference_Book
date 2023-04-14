@@ -37,15 +37,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorAndInheritance",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorAndInheritance_Base_Keyword", "ConstructorAndInheritance_Base_Keyword\ConstructorAndInheritance_Base_Keyword.csproj", "{C0800C05-1618-4B47-9D05-8D98E6B6D3BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{991F33AC-0FFB-44F1-A05B-25DDAE0E82D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{991F33AC-0FFB-44F1-A05B-25DDAE0E82D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Properties", "Interface_Properties\Interface_Properties.csproj", "{3E000CF0-AFFE-4828-9AC7-942C2FDC41D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface_Properties", "Interface_Properties\Interface_Properties.csproj", "{3E000CF0-AFFE-4828-9AC7-942C2FDC41D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Indexer", "Interface_Indexer\Interface_Indexer.csproj", "{EB29812F-3255-4057-BE11-11041A47907E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface_Indexer", "Interface_Indexer\Interface_Indexer.csproj", "{EB29812F-3255-4057-BE11-11041A47907E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structure", "Structure\Structure.csproj", "{542CE1E9-64D2-4ECB-B311-0859011BB1C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structure", "Structure\Structure.csproj", "{542CE1E9-64D2-4ECB-B311-0859011BB1C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeration", "Enumeration\Enumeration.csproj", "{1C656AF2-3337-4C3C-9D2B-AF40DB484038}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumeration", "Enumeration\Enumeration.csproj", "{1C656AF2-3337-4C3C-9D2B-AF40DB484038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Handling", "Exception_Handling\Exception_Handling.csproj", "{4F0197A7-53AA-44E1-9690-7AD2B079AAF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{1C656AF2-3337-4C3C-9D2B-AF40DB484038}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C656AF2-3337-4C3C-9D2B-AF40DB484038}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C656AF2-3337-4C3C-9D2B-AF40DB484038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F0197A7-53AA-44E1-9690-7AD2B079AAF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0197A7-53AA-44E1-9690-7AD2B079AAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0197A7-53AA-44E1-9690-7AD2B079AAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0197A7-53AA-44E1-9690-7AD2B079AAF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
