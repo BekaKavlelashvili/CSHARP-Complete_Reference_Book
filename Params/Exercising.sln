@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Handling", "Excep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Handling_Multiple_Catch", "Exception_Handling_Multiple_Catch\Exception_Handling_Multiple_Catch.csproj", "{5D66EBAE-6399-4644-8752-0E49E2762C83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested_Try", "Nested_Try\Nested_Try.csproj", "{0C8DE79C-2D9C-4BD6-8953-D25B328EFD69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{5D66EBAE-6399-4644-8752-0E49E2762C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D66EBAE-6399-4644-8752-0E49E2762C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D66EBAE-6399-4644-8752-0E49E2762C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8DE79C-2D9C-4BD6-8953-D25B328EFD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8DE79C-2D9C-4BD6-8953-D25B328EFD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8DE79C-2D9C-4BD6-8953-D25B328EFD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8DE79C-2D9C-4BD6-8953-D25B328EFD69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
