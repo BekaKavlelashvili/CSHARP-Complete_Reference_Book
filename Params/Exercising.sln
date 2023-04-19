@@ -47,21 +47,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structure", "Structure\Stru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumeration", "Enumeration\Enumeration.csproj", "{1C656AF2-3337-4C3C-9D2B-AF40DB484038}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Handling", "Exception_Handling\Exception_Handling.csproj", "{4F0197A7-53AA-44E1-9690-7AD2B079AAF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception_Handling", "Exception_Handling\Exception_Handling.csproj", "{4F0197A7-53AA-44E1-9690-7AD2B079AAF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Handling_Multiple_Catch", "Exception_Handling_Multiple_Catch\Exception_Handling_Multiple_Catch.csproj", "{5D66EBAE-6399-4644-8752-0E49E2762C83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception_Handling_Multiple_Catch", "Exception_Handling_Multiple_Catch\Exception_Handling_Multiple_Catch.csproj", "{5D66EBAE-6399-4644-8752-0E49E2762C83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested_Try", "Nested_Try\Nested_Try.csproj", "{0C8DE79C-2D9C-4BD6-8953-D25B328EFD69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nested_Try", "Nested_Try\Nested_Try.csproj", "{0C8DE79C-2D9C-4BD6-8953-D25B328EFD69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rethrow_Exception", "Rethrow_Exception\Rethrow_Exception.csproj", "{1464C55E-C8B4-4152-B196-89F4A55541E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rethrow_Exception", "Rethrow_Exception\Rethrow_Exception.csproj", "{1464C55E-C8B4-4152-B196-89F4A55541E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try_Catch_Finally", "Try_Catch_Finally\Try_Catch_Finally.csproj", "{14058FBF-ED8E-4572-B310-C05438419D83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Try_Catch_Finally", "Try_Catch_Finally\Try_Catch_Finally.csproj", "{14058FBF-ED8E-4572-B310-C05438419D83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Class_Members", "Exception_Class_Members\Exception_Class_Members.csproj", "{F4412D1B-9326-4F75-A991-9D0C3AD9DD62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception_Class_Members", "Exception_Class_Members\Exception_Class_Members.csproj", "{F4412D1B-9326-4F75-A991-9D0C3AD9DD62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom_Exception", "Custom_Exception\Custom_Exception.csproj", "{B82EAE42-88BF-4D06-BDC9-FACA3911C176}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Custom_Exception", "Custom_Exception\Custom_Exception.csproj", "{B82EAE42-88BF-4D06-BDC9-FACA3911C176}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checked_Unchecked", "Checked_Unchecked\Checked_Unchecked.csproj", "{7496985D-4D44-4DF4-A9A3-792FE52ED39A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checked_Unchecked", "Checked_Unchecked\Checked_Unchecked.csproj", "{7496985D-4D44-4DF4-A9A3-792FE52ED39A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_ReadKeys", "Console_ReadKeys\Console_ReadKeys.csproj", "{95ED6CDD-E062-44D9-8F3E-31C4DB9C85BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +191,10 @@ Global
 		{7496985D-4D44-4DF4-A9A3-792FE52ED39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7496985D-4D44-4DF4-A9A3-792FE52ED39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7496985D-4D44-4DF4-A9A3-792FE52ED39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95ED6CDD-E062-44D9-8F3E-31C4DB9C85BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95ED6CDD-E062-44D9-8F3E-31C4DB9C85BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95ED6CDD-E062-44D9-8F3E-31C4DB9C85BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95ED6CDD-E062-44D9-8F3E-31C4DB9C85BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
