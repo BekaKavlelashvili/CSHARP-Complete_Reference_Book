@@ -65,3 +65,5 @@
 /Params/Custom_Exception/obj
 /Params/Checked_Unchecked/bin/Debug/net7.0
 /Params/Checked_Unchecked/obj
+/Params/Console_ReadKeys/bin/Debug/net7.0
+/Params/Console_ReadKeys/obj
