@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamReader", "StreamReade
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redirect_Streams", "Redirect_Streams\Redirect_Streams.csproj", "{65D9D8DD-D043-4B0A-9590-CA49DA52BE15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryReader_BinaryWriter", "BinaryReader_BinaryWriter\BinaryReader_BinaryWriter.csproj", "{9DC7B375-847D-420E-96AB-CC11DAABDD02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{65D9D8DD-D043-4B0A-9590-CA49DA52BE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65D9D8DD-D043-4B0A-9590-CA49DA52BE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65D9D8DD-D043-4B0A-9590-CA49DA52BE15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC7B375-847D-420E-96AB-CC11DAABDD02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC7B375-847D-420E-96AB-CC11DAABDD02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC7B375-847D-420E-96AB-CC11DAABDD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC7B375-847D-420E-96AB-CC11DAABDD02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
