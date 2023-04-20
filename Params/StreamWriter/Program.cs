@@ -1,4 +1,5 @@
-﻿class KtoD
+﻿//key to disk
+class KtoD
 {
     static void Main()
     {
