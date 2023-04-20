@@ -67,6 +67,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console_ReadKeys", "Console
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read_From_File", "Read_From_File\Read_From_File.csproj", "{B8FA5235-555B-48B2-A6B6-CEB97BF0B928}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Write_To_File", "Write_To_File\Write_To_File.csproj", "{B1EF575E-C2B4-4DAF-BEF3-3B1DF2768B70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{B8FA5235-555B-48B2-A6B6-CEB97BF0B928}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8FA5235-555B-48B2-A6B6-CEB97BF0B928}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8FA5235-555B-48B2-A6B6-CEB97BF0B928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1EF575E-C2B4-4DAF-BEF3-3B1DF2768B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EF575E-C2B4-4DAF-BEF3-3B1DF2768B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EF575E-C2B4-4DAF-BEF3-3B1DF2768B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EF575E-C2B4-4DAF-BEF3-3B1DF2768B70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
