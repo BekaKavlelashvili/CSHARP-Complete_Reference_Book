@@ -79,3 +79,5 @@
 /Params/Redirect_Streams/obj
 /Params/BinaryReader_BinaryWriter/bin/Debug/net7.0
 /Params/BinaryReader_BinaryWriter/obj
+/Params/Random_Access_Files_With_Seek/bin/Debug/net7.0
+/Params/Random_Access_Files_With_Seek/obj
