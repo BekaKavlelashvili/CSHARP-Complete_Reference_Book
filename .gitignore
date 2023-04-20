@@ -71,3 +71,5 @@
 /Params/Read_From_File/obj
 /Params/Write_To_File/bin/Debug/net7.0
 /Params/Write_To_File/obj
+/Params/StreamWriter/bin/Debug/net7.0
+/Params/StreamWriter/obj
