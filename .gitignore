@@ -69,3 +69,5 @@
 /Params/Console_ReadKeys/obj
 /Params/Read_From_File/bin/Debug/net7.0
 /Params/Read_From_File/obj
+/Params/Write_To_File/bin/Debug/net7.0
+/Params/Write_To_File/obj
