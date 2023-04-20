@@ -75,3 +75,5 @@
 /Params/StreamWriter/obj
 /Params/StreamReader/bin/Debug/net7.0
 /Params/StreamReader/obj
+/Params/Redirect_Streams/bin/Debug/net7.0
+/Params/Redirect_Streams/obj
