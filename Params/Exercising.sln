@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read_From_File", "Read_From
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Write_To_File", "Write_To_File\Write_To_File.csproj", "{B1EF575E-C2B4-4DAF-BEF3-3B1DF2768B70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWriter", "StreamWriter\StreamWriter.csproj", "{BB38FE85-2B18-4FAF-92C2-2656203E4CE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{B1EF575E-C2B4-4DAF-BEF3-3B1DF2768B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1EF575E-C2B4-4DAF-BEF3-3B1DF2768B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1EF575E-C2B4-4DAF-BEF3-3B1DF2768B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB38FE85-2B18-4FAF-92C2-2656203E4CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB38FE85-2B18-4FAF-92C2-2656203E4CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB38FE85-2B18-4FAF-92C2-2656203E4CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB38FE85-2B18-4FAF-92C2-2656203E4CE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
