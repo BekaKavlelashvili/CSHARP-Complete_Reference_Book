@@ -77,3 +77,5 @@
 /Params/StreamReader/obj
 /Params/Redirect_Streams/bin/Debug/net7.0
 /Params/Redirect_Streams/obj
+/Params/BinaryReader_BinaryWriter/bin/Debug/net7.0
+/Params/BinaryReader_BinaryWriter/obj
