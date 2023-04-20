@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryReader_BinaryWriter",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random_Access_Files_With_Seek", "Random_Access_Files_With_Seek\Random_Access_Files_With_Seek.csproj", "{872D3D80-A3C3-4357-B101-0656E96B7352}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryStream", "MemoryStream\MemoryStream.csproj", "{A0BA5911-988F-4F64-A447-B341E8BE54AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{872D3D80-A3C3-4357-B101-0656E96B7352}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{872D3D80-A3C3-4357-B101-0656E96B7352}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{872D3D80-A3C3-4357-B101-0656E96B7352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0BA5911-988F-4F64-A447-B341E8BE54AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BA5911-988F-4F64-A447-B341E8BE54AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BA5911-988F-4F64-A447-B341E8BE54AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BA5911-988F-4F64-A447-B341E8BE54AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
