@@ -63,7 +63,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Custom_Exception", "Custom_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checked_Unchecked", "Checked_Unchecked\Checked_Unchecked.csproj", "{7496985D-4D44-4DF4-A9A3-792FE52ED39A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_ReadKeys", "Console_ReadKeys\Console_ReadKeys.csproj", "{95ED6CDD-E062-44D9-8F3E-31C4DB9C85BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console_ReadKeys", "Console_ReadKeys\Console_ReadKeys.csproj", "{95ED6CDD-E062-44D9-8F3E-31C4DB9C85BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read_From_File", "Read_From_File\Read_From_File.csproj", "{B8FA5235-555B-48B2-A6B6-CEB97BF0B928}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{95ED6CDD-E062-44D9-8F3E-31C4DB9C85BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95ED6CDD-E062-44D9-8F3E-31C4DB9C85BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95ED6CDD-E062-44D9-8F3E-31C4DB9C85BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FA5235-555B-48B2-A6B6-CEB97BF0B928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FA5235-555B-48B2-A6B6-CEB97BF0B928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FA5235-555B-48B2-A6B6-CEB97BF0B928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FA5235-555B-48B2-A6B6-CEB97BF0B928}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
