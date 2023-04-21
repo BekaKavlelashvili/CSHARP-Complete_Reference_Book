@@ -83,3 +83,5 @@
 /Params/Random_Access_Files_With_Seek/obj
 /Params/MemoryStream/bin/Debug/net7.0
 /Params/MemoryStream/obj
+/Params/StringReader_StringWriter/bin/Debug/net7.0
+/Params/StringReader_StringWriter/obj
