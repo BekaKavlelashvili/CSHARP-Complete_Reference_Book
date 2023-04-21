@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random_Access_Files_With_Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryStream", "MemoryStream\MemoryStream.csproj", "{A0BA5911-988F-4F64-A447-B341E8BE54AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReader_StringWriter", "StringReader_StringWriter\StringReader_StringWriter.csproj", "{AAE0263B-70D4-4F97-82FB-2B64210B5CE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{A0BA5911-988F-4F64-A447-B341E8BE54AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0BA5911-988F-4F64-A447-B341E8BE54AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0BA5911-988F-4F64-A447-B341E8BE54AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE0263B-70D4-4F97-82FB-2B64210B5CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE0263B-70D4-4F97-82FB-2B64210B5CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE0263B-70D4-4F97-82FB-2B64210B5CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE0263B-70D4-4F97-82FB-2B64210B5CE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
