@@ -65,25 +65,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checked_Unchecked", "Checke
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console_ReadKeys", "Console_ReadKeys\Console_ReadKeys.csproj", "{95ED6CDD-E062-44D9-8F3E-31C4DB9C85BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read_From_File", "Read_From_File\Read_From_File.csproj", "{B8FA5235-555B-48B2-A6B6-CEB97BF0B928}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Read_From_File", "Read_From_File\Read_From_File.csproj", "{B8FA5235-555B-48B2-A6B6-CEB97BF0B928}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Write_To_File", "Write_To_File\Write_To_File.csproj", "{B1EF575E-C2B4-4DAF-BEF3-3B1DF2768B70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Write_To_File", "Write_To_File\Write_To_File.csproj", "{B1EF575E-C2B4-4DAF-BEF3-3B1DF2768B70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWriter", "StreamWriter\StreamWriter.csproj", "{BB38FE85-2B18-4FAF-92C2-2656203E4CE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamWriter", "StreamWriter\StreamWriter.csproj", "{BB38FE85-2B18-4FAF-92C2-2656203E4CE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamReader", "StreamReader\StreamReader.csproj", "{9D095493-B2C3-46E3-B09C-4F6F0717D230}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamReader", "StreamReader\StreamReader.csproj", "{9D095493-B2C3-46E3-B09C-4F6F0717D230}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redirect_Streams", "Redirect_Streams\Redirect_Streams.csproj", "{65D9D8DD-D043-4B0A-9590-CA49DA52BE15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Redirect_Streams", "Redirect_Streams\Redirect_Streams.csproj", "{65D9D8DD-D043-4B0A-9590-CA49DA52BE15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryReader_BinaryWriter", "BinaryReader_BinaryWriter\BinaryReader_BinaryWriter.csproj", "{9DC7B375-847D-420E-96AB-CC11DAABDD02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryReader_BinaryWriter", "BinaryReader_BinaryWriter\BinaryReader_BinaryWriter.csproj", "{9DC7B375-847D-420E-96AB-CC11DAABDD02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random_Access_Files_With_Seek", "Random_Access_Files_With_Seek\Random_Access_Files_With_Seek.csproj", "{872D3D80-A3C3-4357-B101-0656E96B7352}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Random_Access_Files_With_Seek", "Random_Access_Files_With_Seek\Random_Access_Files_With_Seek.csproj", "{872D3D80-A3C3-4357-B101-0656E96B7352}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryStream", "MemoryStream\MemoryStream.csproj", "{A0BA5911-988F-4F64-A447-B341E8BE54AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MemoryStream", "MemoryStream\MemoryStream.csproj", "{A0BA5911-988F-4F64-A447-B341E8BE54AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReader_StringWriter", "StringReader_StringWriter\StringReader_StringWriter.csproj", "{AAE0263B-70D4-4F97-82FB-2B64210B5CE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringReader_StringWriter", "StringReader_StringWriter\StringReader_StringWriter.csproj", "{AAE0263B-70D4-4F97-82FB-2B64210B5CE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parse_Method", "Parse_Method\Parse_Method.csproj", "{9CAB5FB6-2F4C-4B3A-96E3-0047993D920E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parse_Method", "Parse_Method\Parse_Method.csproj", "{9CAB5FB6-2F4C-4B3A-96E3-0047993D920E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_Delegate_Program", "Simple_Delegate_Program\Simple_Delegate_Program.csproj", "{889F0DF2-54DA-4107-99FB-E2FB361E74CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -255,6 +257,10 @@ Global
 		{9CAB5FB6-2F4C-4B3A-96E3-0047993D920E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CAB5FB6-2F4C-4B3A-96E3-0047993D920E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CAB5FB6-2F4C-4B3A-96E3-0047993D920E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889F0DF2-54DA-4107-99FB-E2FB361E74CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889F0DF2-54DA-4107-99FB-E2FB361E74CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889F0DF2-54DA-4107-99FB-E2FB361E74CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889F0DF2-54DA-4107-99FB-E2FB361E74CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
