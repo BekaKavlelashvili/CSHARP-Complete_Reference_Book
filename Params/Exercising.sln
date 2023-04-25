@@ -87,6 +87,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parse_Method", "Parse_Metho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_Delegate_Program", "Simple_Delegate_Program\Simple_Delegate_Program.csproj", "{889F0DF2-54DA-4107-99FB-E2FB361E74CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_Multicasting", "Delegate_Multicasting\Delegate_Multicasting.csproj", "{41FF2287-1FAB-4D96-B977-A4C544C0F652}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,10 @@ Global
 		{889F0DF2-54DA-4107-99FB-E2FB361E74CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{889F0DF2-54DA-4107-99FB-E2FB361E74CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{889F0DF2-54DA-4107-99FB-E2FB361E74CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41FF2287-1FAB-4D96-B977-A4C544C0F652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41FF2287-1FAB-4D96-B977-A4C544C0F652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41FF2287-1FAB-4D96-B977-A4C544C0F652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41FF2287-1FAB-4D96-B977-A4C544C0F652}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
