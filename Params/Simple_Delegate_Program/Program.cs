@@ -39,6 +39,13 @@ class DelegateTest
 
     static void Main()
     {
+        //Method group conversion
+        //StrMod strMod = ReplaceSpaces;
+
+        //Refer to instance method
+        //DelegateTest test = new DelegateTest();
+        //StrMod strMod1 = test.Reverse; method not be static
+
         StrMod strMod = new StrMod(ReplaceSpaces);
         string str;
 
