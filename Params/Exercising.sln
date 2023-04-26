@@ -85,11 +85,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringReader_StringWriter",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parse_Method", "Parse_Method\Parse_Method.csproj", "{9CAB5FB6-2F4C-4B3A-96E3-0047993D920E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_Delegate_Program", "Simple_Delegate_Program\Simple_Delegate_Program.csproj", "{889F0DF2-54DA-4107-99FB-E2FB361E74CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple_Delegate_Program", "Simple_Delegate_Program\Simple_Delegate_Program.csproj", "{889F0DF2-54DA-4107-99FB-E2FB361E74CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_Multicasting", "Delegate_Multicasting\Delegate_Multicasting.csproj", "{41FF2287-1FAB-4D96-B977-A4C544C0F652}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate_Multicasting", "Delegate_Multicasting\Delegate_Multicasting.csproj", "{41FF2287-1FAB-4D96-B977-A4C544C0F652}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covariance_Contravariance", "Covariance_Contravariance\Covariance_Contravariance.csproj", "{F88EE344-4EF2-42F1-80E0-304E5C3086EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Covariance_Contravariance", "Covariance_Contravariance\Covariance_Contravariance.csproj", "{F88EE344-4EF2-42F1-80E0-304E5C3086EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous_Methods", "Anonymous_Methods\Anonymous_Methods.csproj", "{795FE778-72A0-43E4-9B9D-2829F2901D1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -273,6 +275,10 @@ Global
 		{F88EE344-4EF2-42F1-80E0-304E5C3086EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F88EE344-4EF2-42F1-80E0-304E5C3086EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F88EE344-4EF2-42F1-80E0-304E5C3086EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795FE778-72A0-43E4-9B9D-2829F2901D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795FE778-72A0-43E4-9B9D-2829F2901D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795FE778-72A0-43E4-9B9D-2829F2901D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795FE778-72A0-43E4-9B9D-2829F2901D1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
