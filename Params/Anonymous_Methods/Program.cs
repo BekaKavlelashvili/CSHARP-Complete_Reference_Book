@@ -6,7 +6,7 @@ class VarCapture
     {
         int sum = 0;
 
-        int ctObj(int end)
+        CountIt ctObj = delegate (int end)
         {
             for (int i = 0; i <= end; i++)
             {
@@ -14,7 +14,7 @@ class VarCapture
                 sum += i;
             }
             return sum;
-        }
+        };
         return ctObj;
     }
 
