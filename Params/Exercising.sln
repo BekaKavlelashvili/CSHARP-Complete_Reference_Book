@@ -101,6 +101,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Event", "Event\Event.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multicast_Event", "Multicast_Event\Multicast_Event.csproj", "{45DA849D-9F87-4EA2-AA56-FABB98AFA181}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event_Accessors", "Event_Accessors\Event_Accessors.csproj", "{FF5DD0F1-9066-410F-BD20-BEDE311A1D46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -303,6 +305,10 @@ Global
 		{45DA849D-9F87-4EA2-AA56-FABB98AFA181}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45DA849D-9F87-4EA2-AA56-FABB98AFA181}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45DA849D-9F87-4EA2-AA56-FABB98AFA181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF5DD0F1-9066-410F-BD20-BEDE311A1D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5DD0F1-9066-410F-BD20-BEDE311A1D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5DD0F1-9066-410F-BD20-BEDE311A1D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5DD0F1-9066-410F-BD20-BEDE311A1D46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
