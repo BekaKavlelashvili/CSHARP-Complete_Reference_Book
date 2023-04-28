@@ -103,3 +103,5 @@
 /Params/Event/obj
 /Params/Multicast_Event/bin/Debug/net7.0
 /Params/Multicast_Event/obj
+/Params/Event_Accessors/bin/Debug/net7.0
+/Params/Event_Accessors/obj
