@@ -105,3 +105,5 @@
 /Params/Multicast_Event/obj
 /Params/Event_Accessors/bin/Debug/net7.0
 /Params/Event_Accessors/obj
+/Params/DotNet-Compatible_Event/bin/Debug/net7.0
+/Params/DotNet-Compatible_Event/obj
