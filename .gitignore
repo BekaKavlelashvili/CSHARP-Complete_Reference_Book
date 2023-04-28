@@ -101,3 +101,5 @@
 /Params/Statement_Lambdas/obj
 /Params/Event/bin/Debug/net7.0
 /Params/Event/obj
+/Params/Multicast_Event/bin/Debug/net7.0
+/Params/Multicast_Event/obj
