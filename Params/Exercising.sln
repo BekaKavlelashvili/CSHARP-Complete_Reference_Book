@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multicast_Event", "Multicas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event_Accessors", "Event_Accessors\Event_Accessors.csproj", "{FF5DD0F1-9066-410F-BD20-BEDE311A1D46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet-Compatible_Event", "DotNet-Compatible_Event\DotNet-Compatible_Event.csproj", "{FA3FC94D-FE66-4C37-8333-38DAC1A0B476}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{FF5DD0F1-9066-410F-BD20-BEDE311A1D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF5DD0F1-9066-410F-BD20-BEDE311A1D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF5DD0F1-9066-410F-BD20-BEDE311A1D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3FC94D-FE66-4C37-8333-38DAC1A0B476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3FC94D-FE66-4C37-8333-38DAC1A0B476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3FC94D-FE66-4C37-8333-38DAC1A0B476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3FC94D-FE66-4C37-8333-38DAC1A0B476}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
