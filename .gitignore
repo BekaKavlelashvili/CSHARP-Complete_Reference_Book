@@ -109,3 +109,5 @@
 /Params/DotNet-Compatible_Event/obj
 /Params/EventHandler/bin/Debug/net7.0
 /Params/EventHandler/obj
+/Params/Keypress_Event/bin/Debug/net7.0
+/Params/Keypress_Event/obj
