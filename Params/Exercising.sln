@@ -97,7 +97,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Expression_Lambdas", "Expre
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Statement_Lambdas", "Statement_Lambdas\Statement_Lambdas.csproj", "{632E79A4-9C6B-49B7-947B-83E4A4E4BE34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event", "Event\Event.csproj", "{A0D47793-5FE4-41D0-8332-562A06F298C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Event", "Event\Event.csproj", "{A0D47793-5FE4-41D0-8332-562A06F298C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multicast_Event", "Multicast_Event\Multicast_Event.csproj", "{45DA849D-9F87-4EA2-AA56-FABB98AFA181}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -297,6 +299,10 @@ Global
 		{A0D47793-5FE4-41D0-8332-562A06F298C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0D47793-5FE4-41D0-8332-562A06F298C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0D47793-5FE4-41D0-8332-562A06F298C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45DA849D-9F87-4EA2-AA56-FABB98AFA181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DA849D-9F87-4EA2-AA56-FABB98AFA181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DA849D-9F87-4EA2-AA56-FABB98AFA181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DA849D-9F87-4EA2-AA56-FABB98AFA181}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
