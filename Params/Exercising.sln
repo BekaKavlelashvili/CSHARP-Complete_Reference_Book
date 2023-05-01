@@ -109,7 +109,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventHandler", "EventHandle
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Keypress_Event", "Keypress_Event\Keypress_Event.csproj", "{FAB229DE-EC8F-4276-AC5C-BACB33AE5B10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Preprocessor", "Preprocessor\Preprocessor.csproj", "{6108126D-EA1C-46F0-B2EE-9316E86AD8C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Preprocessor", "Preprocessor\Preprocessor.csproj", "{6108126D-EA1C-46F0-B2EE-9316E86AD8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTTI", "RTTI\RTTI.csproj", "{0ABFA2CC-31AE-4A94-8BDE-DD75AF74B02C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -333,6 +335,10 @@ Global
 		{6108126D-EA1C-46F0-B2EE-9316E86AD8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6108126D-EA1C-46F0-B2EE-9316E86AD8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6108126D-EA1C-46F0-B2EE-9316E86AD8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ABFA2CC-31AE-4A94-8BDE-DD75AF74B02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABFA2CC-31AE-4A94-8BDE-DD75AF74B02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABFA2CC-31AE-4A94-8BDE-DD75AF74B02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABFA2CC-31AE-4A94-8BDE-DD75AF74B02C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
