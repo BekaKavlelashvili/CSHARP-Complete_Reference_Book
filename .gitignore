@@ -115,3 +115,5 @@
 /Params/Preprocessor/obj
 /Params/RTTI/bin/Debug/net7.0
 /Params/RTTI/obj
+/Params/Reflection/bin/Debug/net7.0
+/Params/Reflection/obj
