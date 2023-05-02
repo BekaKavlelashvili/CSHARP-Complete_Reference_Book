@@ -51,6 +51,8 @@ namespace Reflection
     {
         public static void MainDemo()
         {
+            Console.WriteLine("=== Analyze Methods ===");
+            
             Type t = typeof(AnalyzeMethods);
 
             Console.WriteLine("Analyzing methods in " + t.Name);
