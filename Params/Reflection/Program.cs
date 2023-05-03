@@ -6,5 +6,6 @@ class TestDemo
     {
         AnalyzesMethodsDemo.MainDemo();
         InvokeMethodsDemo.MainDemo();
+        InvokeConstructorDemo.MainDemo();
     }
 }
