@@ -117,3 +117,5 @@
 /Params/RTTI/obj
 /Params/Reflection/bin/Debug/net7.0
 /Params/Reflection/obj
+/Params/Attribute/bin/Debug/net7.0
+/Params/Attribute/obj
