@@ -111,9 +111,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Keypress_Event", "Keypress_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Preprocessor", "Preprocessor\Preprocessor.csproj", "{6108126D-EA1C-46F0-B2EE-9316E86AD8C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTTI", "RTTI\RTTI.csproj", "{0ABFA2CC-31AE-4A94-8BDE-DD75AF74B02C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RTTI", "RTTI\RTTI.csproj", "{0ABFA2CC-31AE-4A94-8BDE-DD75AF74B02C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{6EEF2AEE-4895-4083-899F-BF14469CCD12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reflection", "Reflection\Reflection.csproj", "{6EEF2AEE-4895-4083-899F-BF14469CCD12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attribute", "Attribute\Attribute.csproj", "{CFD14A73-9DC5-41C0-A1E9-2AC57C99FEDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -345,6 +347,10 @@ Global
 		{6EEF2AEE-4895-4083-899F-BF14469CCD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EEF2AEE-4895-4083-899F-BF14469CCD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EEF2AEE-4895-4083-899F-BF14469CCD12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD14A73-9DC5-41C0-A1E9-2AC57C99FEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD14A73-9DC5-41C0-A1E9-2AC57C99FEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD14A73-9DC5-41C0-A1E9-2AC57C99FEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD14A73-9DC5-41C0-A1E9-2AC57C99FEDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
