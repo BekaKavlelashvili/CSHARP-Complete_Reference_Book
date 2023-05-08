@@ -4,5 +4,6 @@
     {
         SimpleGenericExampleDemo.SimpleGenericExampleMain();
         NonGenericExampleDemo.NonGenericExampleMain();
+        TwoGenDemo.TwoGenMain();
     }
 }
