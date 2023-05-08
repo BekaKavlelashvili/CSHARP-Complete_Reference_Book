@@ -5,5 +5,6 @@ class MainDemo
     static void Main()
     {
         BaseClassConstraint.BaseClassConstraintMain();
+        InterfaceConstraint.InterfaceConstraintMain();
     }
 } 
