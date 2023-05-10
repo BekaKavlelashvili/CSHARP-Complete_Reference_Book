@@ -7,5 +7,6 @@ class MainDemo
         BaseClassConstraint.BaseClassConstraintMain();
         InterfaceConstraint.InterfaceConstraintMain();
         ConstructorConstraint.ConstructorConstraintMain();
+        ReferenceTypeConstraint.ReferenceTypeConstraintMain();
     }
 } 
