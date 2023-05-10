@@ -23,6 +23,11 @@ namespace Generics_Constraint
         {
             obj = new T();
         }
+
+        public void Message()
+        {
+            Console.WriteLine("Hello from Constructor Constraint");
+        }
     }
 
     public static class ConstructorConstraint
@@ -31,6 +36,7 @@ namespace Generics_Constraint
         {
             Console.WriteLine("\n=== Constructor Constraint ===");
             TestClass<MyClass> test = new TestClass<MyClass>();
+            test.Message();
         }
     }
 }
