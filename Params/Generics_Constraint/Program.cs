@@ -10,5 +10,6 @@ class MainDemo
         ReferenceTypeConstraint.ReferenceTypeConstraintMain();
         ValueTypeConstraint.ValueTypeConstraintMain();
         TwoTypeParamsRelationshipConstraint.TwoTypeParamsRelationshipConstraintMain();
+        MultipleConstraints.MultipleConstraintsMain();
     }
 } 
