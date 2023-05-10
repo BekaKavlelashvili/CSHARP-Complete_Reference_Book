@@ -8,5 +8,6 @@ class MainDemo
         NonGenericExampleDemo.NonGenericExampleMain();
         TwoGenDemo.TwoGenMain();
         DefaultValueOfTypeParameter.DefaultValueOfTypeParameterMain();
+        GenericStructure.GenericStructureMain();
     }
 }
