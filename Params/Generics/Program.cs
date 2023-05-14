@@ -9,5 +9,6 @@ class MainDemo
         TwoGenDemo.TwoGenMain();
         DefaultValueOfTypeParameter.DefaultValueOfTypeParameterMain();
         GenericStructure.GenericStructureMain();
+        GenericMethod.GenericMethodMain();
     }
 }
