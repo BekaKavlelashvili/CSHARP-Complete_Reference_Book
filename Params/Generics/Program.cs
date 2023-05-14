@@ -10,5 +10,6 @@ class MainDemo
         DefaultValueOfTypeParameter.DefaultValueOfTypeParameterMain();
         GenericStructure.GenericStructureMain();
         GenericMethod.GenericMethodMain();
+        GenericDelegate.GenericDelegateMain();
     }
 }
