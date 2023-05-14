@@ -12,5 +12,6 @@ class MainDemo
         GenericMethod.GenericMethodMain();
         GenericDelegate.GenericDelegateMain();
         GenericInterface.GenericInterfaceMain();
+        CompareInstancesOfATypeParam.CompareInstancesOfATypeParamMain();
     }
 }
