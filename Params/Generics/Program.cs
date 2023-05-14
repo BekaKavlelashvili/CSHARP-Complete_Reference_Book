@@ -11,5 +11,6 @@ class MainDemo
         GenericStructure.GenericStructureMain();
         GenericMethod.GenericMethodMain();
         GenericDelegate.GenericDelegateMain();
+        GenericInterface.GenericInterfaceMain();
     }
 }
