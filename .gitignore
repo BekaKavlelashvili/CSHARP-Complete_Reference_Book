@@ -123,3 +123,5 @@
 /Params/Generics/obj
 /Params/Generics_Constraint/obj
 /Params/Generics_Constraint/bin/Debug/net7.0
+/Params/Linq/bin/Debug/net7.0
+/Params/Linq/obj
