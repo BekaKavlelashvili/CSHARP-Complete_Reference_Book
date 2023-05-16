@@ -6,5 +6,6 @@ class LinqDemo
     {
         SimpleLinqExample.SimpleLinqExampleMain();
         DemonstrateWhereClause.DemonstrateWhereClauseMain();
+        DemonstrateOrderBy.DemonstrateOrderByMain();
     }
 }
