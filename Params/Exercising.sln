@@ -117,9 +117,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reflection", "Reflection\Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attribute", "Attribute\Attribute.csproj", "{CFD14A73-9DC5-41C0-A1E9-2AC57C99FEDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{5A43A602-EBBF-484E-86DB-4A7C3E83A68F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{5A43A602-EBBF-484E-86DB-4A7C3E83A68F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics_Constraint", "Generics_Constraint\Generics_Constraint.csproj", "{795275A9-32F4-4362-9CE9-FA031FCC935F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics_Constraint", "Generics_Constraint\Generics_Constraint.csproj", "{795275A9-32F4-4362-9CE9-FA031FCC935F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{E2D720DA-9CF2-4784-85D3-DED5D26657B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -363,6 +365,10 @@ Global
 		{795275A9-32F4-4362-9CE9-FA031FCC935F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{795275A9-32F4-4362-9CE9-FA031FCC935F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{795275A9-32F4-4362-9CE9-FA031FCC935F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2D720DA-9CF2-4784-85D3-DED5D26657B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D720DA-9CF2-4784-85D3-DED5D26657B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D720DA-9CF2-4784-85D3-DED5D26657B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D720DA-9CF2-4784-85D3-DED5D26657B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
