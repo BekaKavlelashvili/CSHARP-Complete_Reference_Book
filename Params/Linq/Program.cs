@@ -8,5 +8,6 @@ class LinqDemo
         DemonstrateWhereClause.DemonstrateWhereClauseMain();
         DemonstrateOrderBy.DemonstrateOrderByMain();
         DemonstrateSelect.DemonstrateSelectMain();
+        DemonstrateNestedFrom.DemonstrateNestedFromMain();
     }
 }
