@@ -12,5 +12,6 @@ class LinqDemo
         DemonstrateGroupClause.DemonstrateGroupClauseMain();
         DemonstrateIntoWithGroup.DemonstrateIntoWithGroupMain();
         DemostrateLetClause.DemostrateLetClauseMain();
+        DemostrateJoin.DemostrateJoinMain();
     }
 }
