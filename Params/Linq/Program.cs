@@ -9,5 +9,6 @@ class LinqDemo
         DemonstrateOrderBy.DemonstrateOrderByMain();
         DemonstrateSelect.DemonstrateSelectMain();
         DemonstrateNestedFrom.DemonstrateNestedFromMain();
+        DemonstrateGroupClause.DemonstrateGroupClauseMain();
     }
 }
