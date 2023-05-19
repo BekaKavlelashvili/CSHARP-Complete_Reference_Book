@@ -10,5 +10,6 @@ class LinqDemo
         DemonstrateSelect.DemonstrateSelectMain();
         DemonstrateNestedFrom.DemonstrateNestedFromMain();
         DemonstrateGroupClause.DemonstrateGroupClauseMain();
+        DemonstrateIntoWithGroup.DemonstrateIntoWithGroupMain();
     }
 }
