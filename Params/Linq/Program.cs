@@ -17,5 +17,6 @@ class LinqDemo
         DemostrateGroupJoin.DemostrateGroupJoinMain();
         QueryMethods.QueryMethodsMain();
         ImmediateExecution.ImmediateExecutionMain();
+        ExpressionTree.ExpressionTreeMain();
     }
 }
