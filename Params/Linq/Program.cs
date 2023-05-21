@@ -18,5 +18,6 @@ class LinqDemo
         QueryMethods.QueryMethodsMain();
         ImmediateExecution.ImmediateExecutionMain();
         ExpressionTree.ExpressionTreeMain();
+        ExtensionMethods.ExtensionMethodsMain();
     }
 }
