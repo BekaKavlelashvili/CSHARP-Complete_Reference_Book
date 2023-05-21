@@ -15,5 +15,6 @@ class LinqDemo
         DemostrateJoin.DemostrateJoinMain();
         DemonstrateAnonymousType.DemonstrateAnonymousTypeMain();
         DemostrateGroupJoin.DemostrateGroupJoinMain();
+        QueryMethods.QueryMethodsMain();
     }
 }
