@@ -14,5 +14,6 @@ class LinqDemo
         DemostrateLetClause.DemostrateLetClauseMain();
         DemostrateJoin.DemostrateJoinMain();
         DemonstrateAnonymousType.DemonstrateAnonymousTypeMain();
+        DemostrateGroupJoin.DemostrateGroupJoinMain();
     }
 }
