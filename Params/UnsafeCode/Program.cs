@@ -41,6 +41,7 @@ class UnsafeCodeDemo
 		UseFixed();
 		StructureWithPointers.StructureWithPointersMain();
 		PointerArithmetic.PointerArithmeticMain();
+		PointersAndArrays.PointersAndArraysMain();
 	}
 }
 
