@@ -43,6 +43,7 @@ class UnsafeCodeDemo
 		PointerArithmetic.PointerArithmeticMain();
 		PointersAndArrays.PointersAndArraysMain();
 		PointersAndStrings.PointersAndStringsMain();
+		MultipleIndirect.MultipleIndirectMain();
 	}
 }
 
