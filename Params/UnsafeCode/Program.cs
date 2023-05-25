@@ -1,7 +1,8 @@
 ﻿using System.Reflection.Metadata;
 using System.Xml;
+using UnsafeCode;
 
-class UnsafeCode
+class UnsafeCodeDemo
 {
 	unsafe static void UseUnsafe()
 	{
@@ -38,6 +39,7 @@ class UnsafeCode
 	{
 		UseUnsafe();
 		UseFixed();
+		StructureWithPointers.StructureWithPointersMain();
 	}
 }
 
