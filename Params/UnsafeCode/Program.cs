@@ -44,6 +44,7 @@ class UnsafeCodeDemo
 		PointersAndArrays.PointersAndArraysMain();
 		PointersAndStrings.PointersAndStringsMain();
 		MultipleIndirect.MultipleIndirectMain();
+		StackAlloc.StackAllocMain();
 	}
 }
 
