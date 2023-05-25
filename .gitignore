@@ -125,3 +125,5 @@
 /Params/Generics_Constraint/bin/Debug/net7.0
 /Params/Linq/bin/Debug/net7.0
 /Params/Linq/obj
+/Params/UnsafeCode/bin/Debug/net7.0
+/Params/UnsafeCode/obj
