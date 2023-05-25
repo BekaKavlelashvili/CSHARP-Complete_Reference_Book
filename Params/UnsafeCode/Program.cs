@@ -40,6 +40,7 @@ class UnsafeCodeDemo
 		UseUnsafe();
 		UseFixed();
 		StructureWithPointers.StructureWithPointersMain();
+		PointerArithmetic.PointerArithmeticMain();
 	}
 }
 
