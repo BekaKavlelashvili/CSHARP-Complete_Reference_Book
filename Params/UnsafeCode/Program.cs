@@ -42,6 +42,7 @@ class UnsafeCodeDemo
 		StructureWithPointers.StructureWithPointersMain();
 		PointerArithmetic.PointerArithmeticMain();
 		PointersAndArrays.PointersAndArraysMain();
+		PointersAndStrings.PointersAndStringsMain();
 	}
 }
 
