@@ -6,5 +6,6 @@ class NullableTypesDemo
 	{
 		DemonstrateNullableType.DemonstrateNullableTypeMain();
 		NullableTypesInExpressions.NullableTypesInExpressionsMain();
+		NullCoalescingOperator.NullCoalescingOperatorMain();
 	}
 }
