@@ -123,7 +123,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics_Constraint", "Gene
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq", "Linq\Linq.csproj", "{E2D720DA-9CF2-4784-85D3-DED5D26657B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnsafeCode", "UnsafeCode\UnsafeCode.csproj", "{A3ADDB0E-BEA3-4D3D-BD0E-96EAE96A68BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnsafeCode", "UnsafeCode\UnsafeCode.csproj", "{A3ADDB0E-BEA3-4D3D-BD0E-96EAE96A68BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypes", "NullableTypes\NullableTypes.csproj", "{AE04186C-82E4-47E3-AA55-42F497DA5C98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -375,6 +377,10 @@ Global
 		{A3ADDB0E-BEA3-4D3D-BD0E-96EAE96A68BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3ADDB0E-BEA3-4D3D-BD0E-96EAE96A68BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3ADDB0E-BEA3-4D3D-BD0E-96EAE96A68BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE04186C-82E4-47E3-AA55-42F497DA5C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE04186C-82E4-47E3-AA55-42F497DA5C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE04186C-82E4-47E3-AA55-42F497DA5C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE04186C-82E4-47E3-AA55-42F497DA5C98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
