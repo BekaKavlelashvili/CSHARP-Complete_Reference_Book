@@ -127,3 +127,5 @@
 /Params/Linq/obj
 /Params/UnsafeCode/bin/Debug/net7.0
 /Params/UnsafeCode/obj
+/Params/NullableTypes/bin/Debug/net7.0
+/Params/NullableTypes/obj
