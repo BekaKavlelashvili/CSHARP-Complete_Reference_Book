@@ -129,3 +129,5 @@
 /Params/UnsafeCode/obj
 /Params/NullableTypes/bin/Debug/net7.0
 /Params/NullableTypes/obj
+/Params/PartialTypes/bin/Debug/net7.0
+/Params/PartialTypes/obj
