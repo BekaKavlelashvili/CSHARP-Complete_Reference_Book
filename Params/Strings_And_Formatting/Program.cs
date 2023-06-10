@@ -5,5 +5,6 @@ class Demo
     static void Main()
     {
         DemonstrateStringComparison.DemonstrateStringComparisonMain();
+        SearchStrings.SearchStringsMain();
     }
 }
