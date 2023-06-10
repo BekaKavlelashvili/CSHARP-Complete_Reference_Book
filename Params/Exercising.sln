@@ -131,7 +131,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartialTypes", "PartialType
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicType", "DynamicType\DynamicType.csproj", "{1F41BF9B-4292-44D1-B763-37F102EB0CD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System_Namespace", "System_Namespace\System_Namespace.csproj", "{5F64DD89-01EE-4AE0-B553-308A6DCEACE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "System_Namespace", "System_Namespace\System_Namespace.csproj", "{5F64DD89-01EE-4AE0-B553-308A6DCEACE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings_And_Formatting", "Strings_And_Formatting\Strings_And_Formatting.csproj", "{5607A59F-FD64-4F30-8380-AE5491B31B17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -399,6 +401,10 @@ Global
 		{5F64DD89-01EE-4AE0-B553-308A6DCEACE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F64DD89-01EE-4AE0-B553-308A6DCEACE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F64DD89-01EE-4AE0-B553-308A6DCEACE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5607A59F-FD64-4F30-8380-AE5491B31B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5607A59F-FD64-4F30-8380-AE5491B31B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5607A59F-FD64-4F30-8380-AE5491B31B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5607A59F-FD64-4F30-8380-AE5491B31B17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
