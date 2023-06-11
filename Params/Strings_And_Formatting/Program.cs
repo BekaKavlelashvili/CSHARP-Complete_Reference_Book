@@ -9,5 +9,6 @@ class Demo
         SplitAndJoinStrings.SplitAndJoinStringsMain();
         TrimmingAndPadding.TrimmingAndPaddingMain();
         Insert_Remove_Replace.Insert_Remove_ReplaceMain();
+        Substring.SubstringMain();
     }
 }
