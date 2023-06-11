@@ -6,5 +6,6 @@ class Demo
     {
         DemonstrateStringComparison.DemonstrateStringComparisonMain();
         SearchStrings.SearchStringsMain();
+        SplitAndJoinStrings.SplitAndJoinStringsMain();
     }
 }
