@@ -17,5 +17,6 @@ class Demo
         CustomFormats.CustomFormatsMain();
         FormatDateAndTime.FormatDateAndTimeMain();
         FormatTimeSpan.FormatTimeSpanMain();
+        FormatEnumeration.FormatEnumerationMain();
     }
 }
