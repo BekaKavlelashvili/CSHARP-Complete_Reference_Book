@@ -12,5 +12,6 @@ class Demo
         Substring.SubstringMain();
 
         FormatSpecifiers.FormatSpecifiersMain();
+        DemonstrateStringFormat.DemonstrateStringFormatMain();
     }
 }
