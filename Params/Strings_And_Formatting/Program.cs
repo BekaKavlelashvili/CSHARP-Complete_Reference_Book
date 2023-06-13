@@ -16,5 +16,6 @@ class Demo
         DemonstrateToString.DemonstrateToStringMain();
         CustomFormats.CustomFormatsMain();
         FormatDateAndTime.FormatDateAndTimeMain();
+        FormatTimeSpan.FormatTimeSpanMain();
     }
 }
