@@ -14,5 +14,6 @@ class Demo
         FormatSpecifiers.FormatSpecifiersMain();
         DemonstrateStringFormat.DemonstrateStringFormatMain();
         DemonstrateToString.DemonstrateToStringMain();
+        CustomFormats.CustomFormatsMain();
     }
 }
