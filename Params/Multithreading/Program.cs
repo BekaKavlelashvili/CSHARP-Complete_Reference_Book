@@ -8,5 +8,6 @@ class MultithreadingDemo
         ImproveThreadClass.ImproveThreadClassMain();
         MultipleThreads.MultipleThreadsMain();
         UseThreadJoin.UseThreadJoinMain();
+        PassArgToThreadMethod.PassArgToThreadMethodMain();
     }
 }
