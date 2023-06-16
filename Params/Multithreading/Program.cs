@@ -4,7 +4,8 @@ class MultithreadingDemo
 {
     static void Main()
     {
-        DemonstrateThreadClass.DemonstrateThreadClassMain();
-        ImproveThreadClass.ImproveThreadClassMain();
+        //DemonstrateThreadClass.DemonstrateThreadClassMain();
+        //ImproveThreadClass.ImproveThreadClassMain();
+        MultipleThreads.MultipleThreadsMain();
     }
 }
