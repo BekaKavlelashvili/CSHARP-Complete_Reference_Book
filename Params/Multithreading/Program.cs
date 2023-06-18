@@ -4,11 +4,12 @@ class MultithreadingDemo
 {
     static void Main()
     {
-        //DemonstrateThreadClass.DemonstrateThreadClassMain();
-        //ImproveThreadClass.ImproveThreadClassMain();
-        //MultipleThreads.MultipleThreadsMain();
-        //UseThreadJoin.UseThreadJoinMain();
-        //PassArgToThreadMethod.PassArgToThreadMethodMain();
+        DemonstrateThreadClass.DemonstrateThreadClassMain();
+        ImproveThreadClass.ImproveThreadClassMain();
+        MultipleThreads.MultipleThreadsMain();
+        UseThreadJoin.UseThreadJoinMain();
+        PassArgToThreadMethod.PassArgToThreadMethodMain();
         DemonstrateThreadPriorities.DemonstrateThreadPrioritiesMain();
+        UseLock.UseLockMain();
     }
 }
