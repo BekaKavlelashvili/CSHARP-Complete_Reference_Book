@@ -11,5 +11,6 @@ class MultithreadingDemo
         PassArgToThreadMethod.PassArgToThreadMethodMain();
         DemonstrateThreadPriorities.DemonstrateThreadPrioritiesMain();
         UseLock.UseLockMain();
+        UseWaitAndPulse.UseWaitAndPulseMain();
     }
 }
