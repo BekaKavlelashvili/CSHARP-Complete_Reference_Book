@@ -12,5 +12,6 @@ class MultithreadingDemo
         DemonstrateThreadPriorities.DemonstrateThreadPrioritiesMain();
         UseLock.UseLockMain();
         UseWaitAndPulse.UseWaitAndPulseMain();
+        UseMethodImplAttribute.UseMethodImplAttributeMain();
     }
 }
