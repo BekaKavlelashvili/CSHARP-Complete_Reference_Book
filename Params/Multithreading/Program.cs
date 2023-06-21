@@ -13,5 +13,6 @@ class MultithreadingDemo
         UseLock.UseLockMain();
         UseWaitAndPulse.UseWaitAndPulseMain();
         UseMethodImplAttribute.UseMethodImplAttributeMain();
+        UseMutex.UseMutexMain();
     }
 }
