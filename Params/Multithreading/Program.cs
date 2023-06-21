@@ -16,5 +16,6 @@ class MultithreadingDemo
         UseMutex.UseMutexMain();
         UseSemaphore.UseSemaphoreMain();
         UseManualEventObj.UseManualEventObjMain();
+        UseInterlockedOperations.UseInterlockedOperationsMain();
     }
 }
