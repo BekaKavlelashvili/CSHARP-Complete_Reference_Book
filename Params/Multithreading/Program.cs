@@ -15,5 +15,6 @@ class MultithreadingDemo
         UseMethodImplAttribute.UseMethodImplAttributeMain();
         UseMutex.UseMutexMain();
         UseSemaphore.UseSemaphoreMain();
+        UseManualEventObj.UseManualEventObjMain();
     }
 }
