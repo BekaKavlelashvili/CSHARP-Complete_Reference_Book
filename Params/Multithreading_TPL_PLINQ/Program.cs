@@ -5,5 +5,6 @@ class Program
     static void Main()
     {
         CreateAndRunTask.CreateAndRunTaskMain();
+        DemonstrateTaskID.DemonstrateTaskIDMain();
     }
 }
