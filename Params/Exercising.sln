@@ -135,7 +135,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "System_Namespace", "System_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings_And_Formatting", "Strings_And_Formatting\Strings_And_Formatting.csproj", "{5607A59F-FD64-4F30-8380-AE5491B31B17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading", "Multithreading\Multithreading.csproj", "{EC3DE8F5-D5E6-4282-8C88-E3D0671AC9B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multithreading", "Multithreading\Multithreading.csproj", "{EC3DE8F5-D5E6-4282-8C88-E3D0671AC9B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading_TPL_PLINQ", "Multithreading_TPL_PLINQ\Multithreading_TPL_PLINQ.csproj", "{C86EC05C-4696-4709-A4D3-889F596CE65B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -411,6 +413,10 @@ Global
 		{EC3DE8F5-D5E6-4282-8C88-E3D0671AC9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC3DE8F5-D5E6-4282-8C88-E3D0671AC9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC3DE8F5-D5E6-4282-8C88-E3D0671AC9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86EC05C-4696-4709-A4D3-889F596CE65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86EC05C-4696-4709-A4D3-889F596CE65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86EC05C-4696-4709-A4D3-889F596CE65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86EC05C-4696-4709-A4D3-889F596CE65B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
