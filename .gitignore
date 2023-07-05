@@ -140,3 +140,5 @@
 /Params/Strings_And_Formatting/obj
 /Params/Multithreading/bin/Debug/net7.0
 /Params/Multithreading/obj
+/Params/Multithreading_TPL_PLINQ/bin/Debug/net7.0
+/Params/Multithreading_TPL_PLINQ/obj
