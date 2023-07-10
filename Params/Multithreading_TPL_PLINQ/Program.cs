@@ -10,5 +10,6 @@ class Program
         UseLambdaExpAsTask.UseLambdaExpAsTaskMain();
         DemonstrateContinuation.DemonstrateContinuationMain();
         ReturnValueFromTask.ReturnValueFromTaskMain();
+        UseCancellation.UseCancellationMain();
     }
 }
