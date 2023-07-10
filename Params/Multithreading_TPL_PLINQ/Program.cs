@@ -9,5 +9,6 @@ class Program
         UseWait.UseWaitMain();
         UseLambdaExpAsTask.UseLambdaExpAsTaskMain();
         DemonstrateContinuation.DemonstrateContinuationMain();
+        ReturnValueFromTask.ReturnValueFromTaskMain();
     }
 }
