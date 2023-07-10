@@ -7,5 +7,6 @@ class Program
         CreateAndRunTask.CreateAndRunTaskMain();
         DemonstrateTaskID.DemonstrateTaskIDMain();
         UseWait.UseWaitMain();
+        UseLambdaExpAsTask.UseLambdaExpAsTaskMain();
     }
 }
