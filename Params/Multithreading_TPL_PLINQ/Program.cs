@@ -8,5 +8,6 @@ class Program
         DemonstrateTaskID.DemonstrateTaskIDMain();
         UseWait.UseWaitMain();
         UseLambdaExpAsTask.UseLambdaExpAsTaskMain();
+        DemonstrateContinuation.DemonstrateContinuationMain();
     }
 }
