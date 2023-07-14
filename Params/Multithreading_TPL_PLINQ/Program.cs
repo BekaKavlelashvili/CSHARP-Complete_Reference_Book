@@ -15,5 +15,6 @@ class Program
         UseParallelFor.UseParallelForMain();
         UseParallelForeach.UseParallelForeachMain();
         PLINQQuery.PLINQQueryMain();
+        CancelParallelQuery.CancelParallelQueryMain();
     }
 }
