@@ -11,5 +11,7 @@ class Program
         DemonstrateContinuation.DemonstrateContinuationMain();
         ReturnValueFromTask.ReturnValueFromTaskMain();
         UseCancellation.UseCancellationMain();
+        Use_Parallel_Invoke.Use_Parallel_InvokeMain();
+        //UseParallelFor.UseParallelForMain();
     }
 }
