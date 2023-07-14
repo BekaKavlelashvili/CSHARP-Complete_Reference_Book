@@ -12,6 +12,6 @@ class Program
         ReturnValueFromTask.ReturnValueFromTaskMain();
         UseCancellation.UseCancellationMain();
         Use_Parallel_Invoke.Use_Parallel_InvokeMain();
-        //UseParallelFor.UseParallelForMain();
+        UseParallelFor.UseParallelForMain();
     }
 }
