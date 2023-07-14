@@ -13,5 +13,6 @@ class Program
         UseCancellation.UseCancellationMain();
         Use_Parallel_Invoke.Use_Parallel_InvokeMain();
         UseParallelFor.UseParallelForMain();
+        UseParallelForeach.UseParallelForeachMain();
     }
 }
