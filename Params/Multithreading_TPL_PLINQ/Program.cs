@@ -14,5 +14,6 @@ class Program
         Use_Parallel_Invoke.Use_Parallel_InvokeMain();
         UseParallelFor.UseParallelForMain();
         UseParallelForeach.UseParallelForeachMain();
+        PLINQQuery.PLINQQueryMain();
     }
 }
